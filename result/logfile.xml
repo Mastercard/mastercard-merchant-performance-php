@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="1" assertions="193" failures="0" errors="0" time="0.483658">
+    <testsuite name="MasterCard\Api\MerchantPerformance\MerchantPerformanceTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-MerchantPerformance-PHP/workspace/generated-code/merchant-performance/php/sdk/Test/MasterCard/Api/MerchantPerformance/MerchantPerformanceTest.php" tests="1" assertions="193" failures="0" errors="0" time="0.483658">
+      <testcase name="test_example_merchant_performance_request" class="MasterCard\Api\MerchantPerformance\MerchantPerformanceTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-MerchantPerformance-PHP/workspace/generated-code/merchant-performance/php/sdk/Test/MasterCard/Api/MerchantPerformance/MerchantPerformanceTest.php" line="51" assertions="193" time="0.483658"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
